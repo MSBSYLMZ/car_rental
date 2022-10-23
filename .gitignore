@@ -1,1 +1,3 @@
 /target
+/src/rest.http
+.env
